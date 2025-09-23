@@ -4,6 +4,8 @@ This challenge basically gives us the basic introduction to the LINUX UI and few
 ## My solve
 **Flag:** pwn.college{8751RCMsavklQA7cTf7L_2D6I9Y.QX3YjM1wSN2kjNzEzW}
 
+Followed the question instructions and typed whoami to check which current user login I was in and then executed the hello command.
+
 ```bash
 $ ssh -i~/.ssh/id_pwn hacker@dojo.pwn.college
 Connected!
