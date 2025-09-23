@@ -1,4 +1,4 @@
-# Comprehending commands 06 - Touching files
+# Comprehending commands 07 - Touching files
 This command teaches us how to create files
 
 ## My solve
