@@ -4,6 +4,8 @@ This task just builds on the concept of position yourself and changing the curre
 ## My solve
 **Flag:** `pwn.college{cQOQYcbZiSmAKZOsk_iLA_0lfBE.QX4QTN0wSN2kjNzEzW}`
 
+I followed the task instructions and typed /challenge/run after which i followed the instructions to access /var and thus found the correct path.
+
 ```bash
 $ /challenge/run
 Incorrect...
