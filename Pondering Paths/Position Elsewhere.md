@@ -3,7 +3,7 @@ This task gives a more advanced idea about modifying your current working direct
 
 ## My solve
 **Flag:** `pwn.college{gEG4xSH9ZR5H9DENShtqrM4G9KG.QX3QTN0wSN2kjNzEzW}`
-
+I just followed the task instructions and typed /challenge/run after which i was given the correct directory to access.
 
 ```bash
 $ /challenge/run
