@@ -4,6 +4,8 @@ This task teachers us about the concept of current working directory of our proc
 ## My solve
 **Flag:** `pwn.college{Yj7trf-oVPrK2J6OyDrhSSATr9O.QX2QTN0wSN2kjNzEzW}`
 
+I followed the task instructions to access and typed /challenge/run after which I was given the correct directory path that I was supposed to access.
+
 ```bash
 /challenge/run
 Incorrect...
