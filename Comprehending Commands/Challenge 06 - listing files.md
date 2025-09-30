@@ -1,4 +1,4 @@
-# Challenge Name
+# Comprehending Commands 06 - Listing files
 This challenge teaches us how to access the info about all the files that is stored in a specific directory.
 
 ## My solve
