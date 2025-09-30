@@ -25,7 +25,7 @@ pwn.college{UvK9ZRAG0NWo6D3KJi6qUo-xhDK.01MzMDOxwSN2kjNzEzW}
 This challenge taught me how to make and use a persistent pipe using mkfifo command and the syntax related to same.
 
 ## Incorrect tangents 
-Every time I ran the first command, my terminal seemed to lock up and I couldn’t type additional commands. Hitting Ctrl+C returned the prompt, but it also interrupted the process. Searching around I learned that using two terminals solves this — so I ran the writer in the pwn terminal and the reader in my system’s Ubuntu terminal, which worked.
+Every time I ran the first command, my terminal seemed to lock up and I couldn’t type additional commands. Hitting Ctrl+C returned the prompt, but it also interrupted the process. Searching around I learned that using two terminals solves this, so I ran the writer in the pwn terminal and the reader in my system’s Ubuntu terminal, which worked.
 
 ## References
 NA
